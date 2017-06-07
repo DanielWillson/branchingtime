@@ -1,4 +1,4 @@
 # branchingtime
 
 Adding some text now
-Merge test 1
+Merge test 2 new
